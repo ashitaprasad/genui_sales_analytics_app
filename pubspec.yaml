@@ -1,0 +1,24 @@
+name: genui_sales_analytics_app
+description: "Generative UI sales analytics dashboard built with Flutter GenUI SDK, Riverpod and Amazon Bedrock."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^3.3.1
+  genui: ^0.8.0
+  http: ^1.6.0
+  json_schema_builder: ^0.1.3
+  logging: ^1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
