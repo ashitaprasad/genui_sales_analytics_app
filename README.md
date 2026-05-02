@@ -9,3 +9,5 @@ Generative UI (GenUI) sales analytics Flutter app built with GenUI SDK, Riverpod
 flutter pub get
 flutter run -d macos
 ```
+
+<img width="960" height="674" alt="genui_sales_analytics" src="https://github.com/user-attachments/assets/2a32db79-7aa1-4dbe-a9a3-e7e3303dc2d1" />
