@@ -2,6 +2,9 @@
 
 Source code for the article - [Building a GenUI Sales Analytics App in Flutter with Bring Your Own (BYO) AI Model Provider](https://medium.com/@fluttergems/building-a-genui-sales-analytics-app-in-flutter-with-bring-your-own-byo-ai-model-provider-f875098d17b0) 
 
+<img width="1080" height="423" alt="Building a GenUI Sales Analytics App in Flutter with Bring Your Own (BYO) AI Model Provider" src="https://github.com/user-attachments/assets/a874e256-b212-401e-883a-1ac5aa05b14b" />
+
+
 ## About 
 
 Generative UI (GenUI) sales analytics Flutter app built with GenUI SDK, Riverpod and Amazon Bedrock
